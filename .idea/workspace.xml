@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad8f2d3b-1324-4ac2-9293-296d4f7d486a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Program.java" afterDir="false" />
+    <list default="true" id="ad8f2d3b-1324-4ac2-9293-296d4f7d486a" name="Changes" comment="Seminar02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/JuniorSchoolboy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/MiddleSchoolboy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/SeniorSchoolboy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/AfterCare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/Army.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/Driving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/GameJuniorMiddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/Schoolboy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/base/Smoking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Program.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,16 +51,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.homework02.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="view.Program" />
+      <option name="MAIN_CLASS_NAME" value="school.view.Program" />
       <module name="Seminar02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework02.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework02.Program" />
+      <module name="Seminar02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework02.Program" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -69,6 +88,25 @@
       <option name="presentableId" value="Default" />
       <updated>1682060965691</updated>
     </task>
+    <task id="LOCAL-00001" summary="Seminar02">
+      <created>1682082151578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682082151578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Seminar02">
+      <created>1682082166882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682082166882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seminar02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar02" />
   </component>
 </project>
